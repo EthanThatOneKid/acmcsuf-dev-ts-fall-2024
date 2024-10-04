@@ -1,0 +1,18 @@
+{
+  "name": "acmcsuf-dev-ts-fall-2024",
+  "version": "1.0.0",
+  "description": "Dev TypeScript project with Node.js, Fall 2024.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init": "tsc --init",
+    "build": "tsc main.ts",
+    "start": "npm run build && node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  }
+}
