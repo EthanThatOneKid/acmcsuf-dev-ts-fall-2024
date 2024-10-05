@@ -10,5 +10,5 @@ npm run start
 
 ---
 
-Programmed with 💖 by [**@EthanThatOneKid](https://github.com/EthanThatOneKid)
-at acmcsuf Dev TypeScript workshop October, 4th
+Programmed with 💖 by [**@EthanThatOneKid**](https://github.com/EthanThatOneKid)
+at acmcsuf Dev TypeScript workshop October 4th, 2024
